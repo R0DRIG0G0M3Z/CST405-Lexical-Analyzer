@@ -1,0 +1,24 @@
+int add(int a, int b) {
+    return a + b;
+}
+
+int main() {
+    int value;
+    char letters[10];
+    read value;
+
+    while (value >= 0 && value != 10 || !value) {
+        if (value == 5) {
+            write value;
+        } else {
+            writeln;
+        }
+
+        value = value + 1 - 2 * 3 / 4;
+        if (value <= 20) value = value;
+        if (value < 30) value = value;
+        if (value > 0) break;
+    }
+
+    return value;
+}
