@@ -3,8 +3,8 @@
  * Project 1 - Lexical Analyzer
  * Rodrigo Gomez
  *
- * This lexer is based on my CST-301 project. It reads a .gcupl file,
- * returns the correct token, and prints the token kind and location.
+ * This lexer is based on my CST-301 project. It reads a .gcupl file, returns the correct token, and prints the token kind and location.
+ * 
  */
 
 #include <stdio.h>
