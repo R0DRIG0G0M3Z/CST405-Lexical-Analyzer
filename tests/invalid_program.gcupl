@@ -1,6 +1,0 @@
-int main() {
-    int 2value;
-    value = 10 @ 3;
-    value = value & 1;
-    return value;
-}
