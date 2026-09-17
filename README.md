@@ -26,7 +26,7 @@ Use `-c` to display only the token counts and final result:
 make test
 ```
 
-Tests 01 through 04 and test 07 should finish without lexical errors. Test 05 contains four invalid characters, and test 06 contains an unterminated block comment.
+Tests 01 through 04 and test 07 should finish without lexical errors. Test 05 contains four invalid characters and test 06 contains an unterminated block comment.
 
 ## Files
 
