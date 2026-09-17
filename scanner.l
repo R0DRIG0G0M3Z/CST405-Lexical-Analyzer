@@ -1,9 +1,6 @@
 /*
- * CST-405 Project 1 - Lexical Analyzer
+ * CST-405 Project 1 Lexical Analyzer
  * Rodrigo Gomez
- * Phase: lexical analysis
- * Input: a source file containing CST-405 language characters
- * Output: tokens for the parser, or lexical errors with line and column
  */
 
 %{
